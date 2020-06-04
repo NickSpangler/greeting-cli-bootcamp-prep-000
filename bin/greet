@@ -7,4 +7,3 @@ end
 welcome
 name = gets.strip
 greeting(name)
-
